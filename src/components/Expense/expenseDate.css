@@ -1,0 +1,22 @@
+.date_box {
+    width: 70px;
+    border: 1px solid #fff;
+    padding: 5px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #3f3f3f;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.year {
+    margin: 2px 0;
+    font-size: 11px;
+}
+
+.day {
+    font-size: 15px;
+    font-weight: 600;
+}
