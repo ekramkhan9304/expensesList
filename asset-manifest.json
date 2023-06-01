@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expensesList/static/css/main.35e9fcec.css",
+    "main.js": "/expensesList/static/js/main.4d894274.js",
+    "static/js/787.a86f3764.chunk.js": "/expensesList/static/js/787.a86f3764.chunk.js",
+    "index.html": "/expensesList/index.html",
+    "main.35e9fcec.css.map": "/expensesList/static/css/main.35e9fcec.css.map",
+    "main.4d894274.js.map": "/expensesList/static/js/main.4d894274.js.map",
+    "787.a86f3764.chunk.js.map": "/expensesList/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e9fcec.css",
+    "static/js/main.4d894274.js"
+  ]
+}
